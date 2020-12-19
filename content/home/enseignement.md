@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2020-09-01"
   description: "Description"
-  organization: 192 h / an
+  organization: "192 h / an"
   organization_url: 
   title: École normale supérieure de Lyon
   url: ""
@@ -35,7 +35,7 @@ item:
   date_end: "2020-08-31"
   date_start: "2018-09-01"
   description: ""
-  organization: environ 450 h /an
+  organization: "environ 450 h /an"
   organization_url: 
   title: PTSI, Lycée Schuman Perret, Le Havre
   url: ""
@@ -43,7 +43,7 @@ item:
   date_end: "2018-08-31"
   date_start: "2015-09-01"
   description: ""
-  organization: 64 h / an
+  organization: "64 h / an"
   organization_url: 
   title: Monitorat, Université Paris-sud
   url: ""
