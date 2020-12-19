@@ -1,7 +1,7 @@
 ---
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+# An instance of the Accomplishments widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: accomplishments
 
 # This file represents a page section.
 headless: true
@@ -9,32 +9,42 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+title: 'Enseignements'
 subtitle:
 
-# Date format for experience
+# Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: Postdoctorant, agrégé préparateur
-    company: Laboratoire de physique de l'ENS de Lyon
-    company_url: 'http://www.ens-lyon.fr/PHYSIQUE'
-    location: Lyon
-    date_start: '2020-09-01'
-    date_end: ''
-    description: 
-        
-  - title: Enseignant en classes préparatoires
-    company: Lycée Schuman Perret
-    company_url: ''
-    location: Le Havre
-    date_start: '2018-09-01'
-    date_end: '2020-08-31'
-    description: 
+item:
+- certificate_url: https://www.coursera.org
+  date_end: ""
+  date_start: "2018-10-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Neural Networks and Deep Learning
+  url: ""
+- certificate_url: https://www.edx.org
+  date_end: ""
+  date_start: "2018-03-01"
+  description: Formulated informed blockchain models, hypotheses, and use cases.
+  organization: edX
+  organization_url: https://www.edx.org
+  title: Blockchain Fundamentals
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: https://www.datacamp.com
+  date_end: "2017-12-21"
+  date_start: "2017-07-01"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  url: ""
 ---
