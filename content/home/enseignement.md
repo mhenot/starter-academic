@@ -26,7 +26,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2020-09-01"
-  description: |2- J'encadre des TP de python en L3, des TD de matière molle en M1 et des corrections et simulations d'examens oraux et d'écrits et TP en M2 de préparation aux agrégations de physique et de chimie.
+  description: J'encadre des TP de python en L3, des TD de matière molle en M1 et des corrections et simulations d'examens oraux et d'écrits et TP en M2 de préparation aux agrégations de physique et de chimie.
   organization: 192 h / an
   organization_url: ""
   title: École normale supérieure de Lyon
