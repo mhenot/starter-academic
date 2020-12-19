@@ -36,15 +36,15 @@ item:
   date_start: "2018-09-01"
   description: ""
   organization: environ 450 h /an
-  organization_url: 
+  organization_url: ""
   title: PTSI, Lycée Schuman Perret, Le Havre
   url: ""
- - certificate_url: ""
+- certificate_url: ""
   date_end: "2018-08-31"
   date_start: "2015-09-01"
   description: ""
   organization: 64 h / an
-  organization_url: 
+  organization_url: ""
   title: Monitorat, Université Paris-sud
   url: ""
 ---
