@@ -26,9 +26,25 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2020-09-01"
-  description: Description
+  description: |2- J'encadre des TP de python en L3, des TD de matière molle en M1 et des corrections et simulations d'examens oraux et d'écrits et TP en M2 de préparation aux agrégations de physique et de chimie.
   organization: 192 h / an
   organization_url: ""
   title: École normale supérieure de Lyon
+  url: ""
+- certificate_url: ""
+  date_end: "2020-08-31"
+  date_start: "2018-09-01"
+  description: ""
+  organization: environ 450 h /an
+  organization_url: 
+  title: PTSI, Lycée Schuman Perret, Le Havre
+  url: ""
+ - certificate_url: ""
+  date_end: "2018-08-31"
+  date_start: "2015-09-01"
+  description: ""
+  organization: 64 h / an
+  organization_url: 
+  title: Monitorat, Université Paris-sud
   url: ""
 ---
